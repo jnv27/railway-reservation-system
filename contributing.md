@@ -12,6 +12,7 @@ $ git clone https://github.com/jnv27/railway-reservation-system.git
 
 # navigate to the project's directory and install all the relevant dev-dependencies
 $ cd railway-reservation-system
+```
 
 - Once you have made your changes, run the following command:
 
