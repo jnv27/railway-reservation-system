@@ -3,8 +3,6 @@
 In order to make the contribution
 process easy and effective for everyone involved, Please follow the instructions mentioned below!
 
-## Pull Requests
-
 ## :arrow_down: Installation
 
 
