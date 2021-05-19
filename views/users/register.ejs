@@ -1,6 +1,14 @@
+
 <form action="/register" method="POST">
-    <input type="text" name="username" placeholder="Username">
-    <input type="email" name="email" placeholder="Email Id">
-    <input type="password"name="password" placeholder="Password">
-    <button>Register</button>
+        <label for="username">Username : </label>   
+        <input id="username" type="text" name="username" placeholder="Username">
+        <label for="password">Password : </label>  
+        <input id="password" type="password"name="password" placeholder="Password"> 
+        <label for="confirm">Confirm Password : </label>   
+        <input id="confirm" type="password" placeholder="Confirm Password" name="confirmPassword" required>  
+        <label for="email"> Enter email : </label>   
+        <input id="email" type="email" name="email" placeholder="Email Id">
+        <button>Register</button>
+        <button type="button" class="cancelbtn"> Cancel</button>  
 </form>
+
