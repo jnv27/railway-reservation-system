@@ -10,8 +10,14 @@ process easy and effective for everyone involved, Please follow the instructions
 # clone the repository to your local machine
 $ git clone https://github.com/jnv27/railway-reservation-system.git
 
-# navigate to the project's directory and install all the relevant dev-dependencies
+# navigate to the project's directory
 $ cd railway-reservation-system
+
+# install all the relevant dev-dependencies
+$ npm install
+
+# start the application
+$ npm start
 ```
 
 - Once you have made your changes, run the following command:
