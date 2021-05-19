@@ -1,7 +1,5 @@
 # Contribution is fun! :green_heart:
 
-provide as much detail and context as possible.
-
 In order to make the contribution
 process easy and effective for everyone involved, Please follow the instructions mentioned below!
 
